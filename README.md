@@ -1,3 +1,6 @@
+# Main difference of this fork is:
+- to add CarrierWave 3+ compatibility (simply relaxed condition in gemspec)
+
 # CarrierWave ImageOptimizer
 
 This gem allows you to simply optimize CarrierWave images via jpegoptim or optipng using the [image_optimizer](https://github.com/jtescher/image_optimizer) gem.
